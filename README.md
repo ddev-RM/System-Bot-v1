@@ -1,2 +1,26 @@
-# System-Bot-v1
-This is a system bot version 1 made by devMHMD using discord.py
+# Discord System Bot v1
+
+### This is a simple project to make discord system bot
+This project don't need database
+
+
+### Active your code !
+
+##### To active your code you should be download discord.py module 
+
+download discord.py module for all environment
+```
+pip3 install discord
+```
+
+##### don't forget put your discord bot token
+
+You should put your discord bot token in : "your-token-here"
+
+
+
+
+
+# Made by devMHMD
+
+#### Discord Account name : M7MD.#0009
